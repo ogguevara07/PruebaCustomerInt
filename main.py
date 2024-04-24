@@ -73,8 +73,8 @@ if __name__ == "__main__":
         desicion = int(input("Elegir las siguientes opciones 1: Insertar Usuario, 2: mostrar datos. "))
         
         if desicion == 1:
-            email = input("introdusca el email: ")
-            passw = input("introdusca la constrasena: ")
+            email = input("introduzca el email: ")
+            passw = input("introduzca la constrasena: ")
         
             new_data = {
             'email': email,
@@ -89,7 +89,7 @@ if __name__ == "__main__":
         
         elif desicion == 2:
             
-            filtro = input("Elija id del registro desea consultar: ")      
+            filtro = input("Elija id del registro desea consultar (si desea ver todos los registros no intruzca nada): ")      
                 
             api_data = get_all_data(api_url, filtro)
             if api_data:
