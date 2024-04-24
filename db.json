@@ -1,0 +1,25 @@
+{
+    "posts": [
+      {
+        "id": 2,
+        "JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9ybGFuZG9AZ3VldmFyYS5jb20iLCJwYXNzIjoiMTIzNDU2NzgifQ.RSO_hw3nWzqOxdSp-rqIldJZ64UHImbBK5pSfoLF-wY"
+
+      },
+      {
+        "id": 3,
+        "JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNvbnRhY3RvQGd1ZXZhcmEuY29tIiwicGFzcyI6IjEyMzQ1Njc4In0.E6g3SQchyTKx0twBt9BRH1OtID_xkG8kR1vEVYKDFqY"
+        
+
+      },
+      {
+        "id": 4,
+        "JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBydWViYUBjb250YWN0by5jb20iLCJwYXNzIjoiMTIzNDU2NzgifQ.ZX13xvXayip5lS3fwcTyYkA5hyaGr9y6CRH3JpTAXls"
+        
+
+      }
+      
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
