@@ -28,3 +28,10 @@ Para poder ejecutar el script en python es necesario instalar algunas dependenci
 ```shell
     pip install -r requirment.txt
 ```
+### API Y DATA
+utilice una de las herramientas de https://jsonplaceholder.typicode.com que me permite crear una API simple pero efectiva en este caso
+
+las credenciales estan en JWT se puede utilizar la pagina https://jwt.io/ para desencriptar la crendicales pero una de estas es 
+
+email=orlando@guevara.com \
+password=12345678
